@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_8_TestingPrivateMethods\3_8_TestingPrivateMethods\bin\Debug\3_8_TestingPrivateMethods.exe.config
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_8_TestingPrivateMethods\3_8_TestingPrivateMethods\bin\Debug\3_8_TestingPrivateMethods.exe
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_8_TestingPrivateMethods\3_8_TestingPrivateMethods\bin\Debug\3_8_TestingPrivateMethods.pdb
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_8_TestingPrivateMethods\3_8_TestingPrivateMethods\obj\Debug\3_8_TestingPrivateMethods.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_8_TestingPrivateMethods\3_8_TestingPrivateMethods\obj\Debug\3_8_TestingPrivateMethods.exe
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_8_TestingPrivateMethods\3_8_TestingPrivateMethods\obj\Debug\3_8_TestingPrivateMethods.pdb
